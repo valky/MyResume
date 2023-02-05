@@ -1,10 +1,72 @@
 {
-    "title": "Fullstack Dev(Ops) Microsoft",
-    "personnalInfos" : {
-        "firstName":"Nicolas",
-        "lastName":"BREUIL",
-        "email": "nicolas.breuil@gmail.com",
-        "phoneNumber": "+33651894497",
-        "bithDate": "14/08/1986"
+  "title": "Fullstack Dev(Ops) Microsoft",
+  "personnalInfos": {
+    "firstName": "Nicolas",
+    "lastName": "BREUIL",
+    "email": "nicolas.breuil@gmail.com",
+    "phoneNumber": "+33651894497",
+    "bithDate": "14/08/1986"
+  },
+  "diplomas": [
+    {
+      "name": "AZ-204",
+      "date": "2022"
+    },
+    {
+      "name": "BTS IRIS",
+      "date": "2007"
     }
+  ],
+  "trainings": [
+    {
+      "name": "Angular",
+      "date": "2023",
+      "description": "C'etait pas trop simple"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Sfeir",
+      "date": "2020",
+      "isESN": true
+    }
+  ],
+  "missions": [
+    {
+      "name": "Proximus - DKYC",
+      "description": "C'etait sympa",
+      "role": "Lead Dev"
+    },
+    {
+      "name": "PwC - SkillExpander",
+      "description": "C'etait sympa aussi",
+      "role": "Lead Dev"
+    }
+  ],
+  "workedFor": [
+    {
+      "path": "/src/assets/logos/companies/logo_pwc.png",
+      "name": "pwc"
+    },
+    {
+      "path": "/src/assets/logos/companies/logo_legrand.png",
+      "name": "legrand"
+    }
+  ],
+  "langages": [
+    { "name": "C#", "level": 5 },
+    { "name": "Webforms", "level": 4 }
+  ],
+  "methods": [
+    { "name": "Scrul", "level": 5 },
+    { "name": "Webforms", "level": 4 }
+  ],
+  "softSkills": [
+    { "name": "C#", "level": 5 },
+    { "name": "Webforms", "level": 4 }
+  ],
+  "tools": [
+    { "name": "C#", "level": 5 },
+    { "name": "Webforms", "level": 4 }
+  ]
 }

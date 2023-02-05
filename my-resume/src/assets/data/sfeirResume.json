@@ -1,0 +1,3087 @@
+{
+  "header": {
+    "expertise": "",
+    "civility": "",
+    "lastName": "BREUIL",
+    "firstName": "Nicolas",
+    "title": "Senior Analyst Developer Microsoft (FULL)",
+    "projectNumber": "37",
+    "description": "Provide reliables solutions to ease the daily tasks of customers.",
+    "legalEntity": "sfeir luxembourg",
+    "tags": [],
+    "experiencesYears": "15"
+  },
+  "degrees": [
+    { "title": "BTS IRIS", "date": "2007" },
+    { "title": "Bac S Science de l'ingénieur", "date": "2006" }
+  ],
+  "trainings": [
+    {
+      "name": "Certification: AZ-204  Developing Solutions for Microsoft Azure",
+      "date": "2022"
+    },
+    { "date": "2022", "name": "Formation: MongoDB" },
+    { "name": "Formation: Docker", "date": "2021" },
+    { "name": "Formation: Unity 3D", "date": "2020" },
+    { "date": "2017", "name": "Formation: Scrum Master" },
+    { "date": "2016", "name": "Formation: Angular 2" },
+    { "name": "Formation: Sharepoint", "date": "2013" },
+    {
+      "date": "2013",
+      "name": "Certification: MCP - Programming in HTML5 with Javascript and CSS3"
+    },
+    { "name": "Formation: Sitefinity", "date": "2013" },
+    { "date": "2012", "name": "Formation: Scrum" },
+    { "name": "Certification + Formation: SiteCore ", "date": "2012" },
+    { "date": "2011", "name": "Formation: ALM wth TFS" },
+    { "date": "2011", "name": "Formation: Prince 2 Light" }
+  ],
+  "technos": [
+    {
+      "skills": [
+        "JavaScript",
+        "TypeScript",
+        "C#",
+        "HTML5",
+        "CSS",
+        "T-SQL",
+        "Powershell"
+      ],
+      "type": "langages"
+    },
+    {
+      "type": "frameworks",
+      "skills": [
+        ".NET",
+        "ASP.NET Core",
+        "Entity Framework Core",
+        "jQuery",
+        ".NET Core",
+        "LinQ",
+        "WPF",
+        "Silverlight",
+        "Winform",
+        "WCF"
+      ]
+    },
+    { "type": "sgbd", "skills": ["SQL Server", "MySQL", "MongoDB"] },
+    { "skills": ["IIS", "NGINX"], "type": "serveurs" },
+    { "type": "ide", "skills": ["Visual Studio", "Visual Studio Code"] },
+    { "skills": ["Windows", "Linux"], "type": "os" },
+    { "skills": ["Moq", "MSTest", "NUnit"], "type": "test" },
+    { "type": "integration", "skills": ["Azure DevOps", "Docker"] },
+    {
+      "type": "methodologie",
+      "skills": ["Scrum", "Agile", "Kanban", "Prince2"]
+    },
+    { "type": "conception", "skills": ["UML 2"] },
+    {
+      "type": "cloud",
+      "skills": [
+        "Microsoft Azure",
+        "App-Service ",
+        "KeyVault",
+        "Logic-App",
+        "AZ-Functions",
+        "Blob Storage",
+        "Service Bus",
+        "Event Grid"
+      ]
+    },
+    {
+      "skills": ["Git", "GitHub", "Jira", "Slack", "Teams", "Azure DevOps"],
+      "type": "outils"
+    }
+  ],
+  "experiences": [
+    {
+      "toolsAndMethodolgies": {
+        "blocks": [
+          {
+            "text": "",
+            "depth": 0,
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "data": {},
+            "key": "3ra18",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": {}
+      },
+      "technologies": {
+        "blocks": [
+          {
+            "inlineStyleRanges": [],
+            "depth": 0,
+            "data": {},
+            "type": "unstyled",
+            "text": "C#, Microsoft 365, Microsoft Graph SDK",
+            "entityRanges": [],
+            "key": "bu96m"
+          }
+        ],
+        "entityMap": {}
+      },
+      "startDate": 1667257200,
+      "achievements": {
+        "blocks": [
+          {
+            "depth": 0,
+            "type": "unordered-list-item",
+            "inlineStyleRanges": [],
+            "data": {},
+            "entityRanges": [],
+            "key": "8k3k3",
+            "text": "Création de l’environnement de test"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "depth": 0,
+            "key": "56gmj",
+            "inlineStyleRanges": [],
+            "type": "unordered-list-item",
+            "text": "Ecriture des tests"
+          },
+          {
+            "entityRanges": [],
+            "type": "unstyled",
+            "key": "a3kbi",
+            "inlineStyleRanges": [],
+            "data": {},
+            "depth": 0,
+            "text": ""
+          }
+        ],
+        "entityMap": {}
+      },
+      "missionSummary": "Réalisation d'une librairie pour la création d'utilisateur dans microsoft 365 et la création de dossiers dans sharepoint avec gestion des droits.",
+      "jobPosition": "Développeur Senior",
+      "endDate": 1667257200,
+      "company": "Finquest",
+      "teamProfiles": {
+        "blocks": [
+          {
+            "data": {},
+            "key": "4k82d",
+            "depth": 0,
+            "text": "2 seniors plus un lead dev",
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": {}
+      },
+      "teamSize": "3"
+    },
+    {
+      "achievements": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "text": "Développements de l’application avec les patterns     CQRS/DDD et Event sourcing",
+            "depth": 0,
+            "key": "aq12r",
+            "type": "unordered-list-item",
+            "data": {},
+            "inlineStyleRanges": [],
+            "entityRanges": []
+          },
+          {
+            "depth": 0,
+            "entityRanges": [],
+            "type": "unordered-list-item",
+            "key": "8ha0c",
+            "text": "Correction de bugs",
+            "data": {},
+            "inlineStyleRanges": []
+          },
+          {
+            "text": "Amélioration des tests unitaires",
+            "entityRanges": [],
+            "depth": 0,
+            "inlineStyleRanges": [],
+            "key": "ao2if",
+            "type": "unordered-list-item",
+            "data": {}
+          }
+        ]
+      },
+      "jobPosition": "Développeur ",
+      "missionSummary": "Telindus propose une solution KYC interne et à destination de leur client. ",
+      "company": "Telindus ",
+      "startDate": 1643670000,
+      "teamProfiles": {
+        "blocks": [
+          {
+            "data": {},
+            "type": "unstyled",
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "key": "4a947",
+            "depth": 0,
+            "text": "Environ 10 développeurs dont la majorité en ukraine. "
+          },
+          {
+            "depth": 0,
+            "text": "Profil plutot medior encadré par des séniors",
+            "data": {},
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "type": "unstyled",
+            "key": "b2jau"
+          }
+        ],
+        "entityMap": {}
+      },
+      "toolsAndMethodolgies": {
+        "blocks": [
+          {
+            "entityRanges": [],
+            "type": "unstyled",
+            "text": "Agile, Webex, ...",
+            "key": "31t2j",
+            "data": {},
+            "inlineStyleRanges": [],
+            "depth": 0
+          }
+        ],
+        "entityMap": {}
+      },
+      "endDate": 1661983200,
+      "technologies": {
+        "blocks": [
+          {
+            "type": "unstyled",
+            "entityRanges": [],
+            "key": "4n56g",
+            "depth": 0,
+            "inlineStyleRanges": [],
+            "text": "C#, .Net core, MongoDB, Azure Devops, Visual Studio, React, Docker",
+            "data": {}
+          }
+        ],
+        "entityMap": {}
+      },
+      "teamSize": "15"
+    },
+    {
+      "technologies": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "entityRanges": [],
+            "data": {},
+            "type": "unstyled",
+            "text": "C#, .Net core, EF, T-SQL, Azure Devops, Visual Studio, React",
+            "depth": 0,
+            "key": "32dqe",
+            "inlineStyleRanges": []
+          }
+        ]
+      },
+      "toolsAndMethodolgies": {
+        "blocks": [
+          {
+            "inlineStyleRanges": [],
+            "key": "cksae",
+            "depth": 0,
+            "entityRanges": [],
+            "data": {},
+            "text": "",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": {}
+      },
+      "endDate": 1640991600,
+      "jobPosition": "Développeur ",
+      "teamSize": "4",
+      "startDate": 1619820000,
+      "teamProfiles": {
+        "blocks": [
+          {
+            "type": "unstyled",
+            "key": "fjv72",
+            "depth": 0,
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "text": "1 role sénior, 1 médior, 1 interne, et un front-end"
+          }
+        ],
+        "entityMap": {}
+      },
+      "company": "Deloitte ",
+      "achievements": {
+        "blocks": [
+          {
+            "type": "unordered-list-item",
+            "inlineStyleRanges": [],
+            "text": "Développements de l’application",
+            "key": "9jmqd",
+            "data": {},
+            "entityRanges": [],
+            "depth": 0
+          },
+          {
+            "key": "t8vh",
+            "text": "Suivi de projet",
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "type": "unordered-list-item",
+            "depth": 0,
+            "data": {}
+          },
+          {
+            "text": "Accompagnement dans la mise en pratique de méthodologie Agile",
+            "key": "3ir6k",
+            "data": {},
+            "entityRanges": [],
+            "depth": 0,
+            "inlineStyleRanges": [],
+            "type": "unordered-list-item"
+          },
+          {
+            "entityRanges": [],
+            "text": "Reporting",
+            "key": "9fss1",
+            "inlineStyleRanges": [],
+            "depth": 0,
+            "data": {},
+            "type": "unordered-list-item"
+          }
+        ],
+        "entityMap": {}
+      },
+      "missionSummary": "L'équipe Forensic & Financial crime propose un ensemble de solutions AML pour ses clients. C’est dans ce cadre que nous proposons une application KYC."
+    },
+    {
+      "teamProfiles": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "key": "b8jl4",
+            "inlineStyleRanges": [],
+            "depth": 0,
+            "type": "unstyled",
+            "entityRanges": [],
+            "text": "Back-end : 2 junior 1 sénior",
+            "data": {}
+          },
+          {
+            "key": "93gnl",
+            "depth": 0,
+            "text": "Front-End: 1 junior 1 senior",
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "type": "unstyled",
+            "data": {}
+          }
+        ]
+      },
+      "toolsAndMethodolgies": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "type": "unstyled",
+            "data": {},
+            "text": "",
+            "key": "273ev",
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "depth": 0
+          }
+        ]
+      },
+      "achievements": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "key": "65dop",
+            "inlineStyleRanges": [],
+            "depth": 0,
+            "data": {},
+            "type": "unordered-list-item",
+            "text": "Développements de l’application avec les patterns CQRS/DDD et Event sourcing",
+            "entityRanges": []
+          },
+          {
+            "key": "28ct1",
+            "text": "Configuration des services Azure",
+            "type": "unordered-list-item",
+            "data": {},
+            "entityRanges": [],
+            "depth": 0,
+            "inlineStyleRanges": []
+          },
+          {
+            "type": "unordered-list-item",
+            "data": {},
+            "key": "b6pgn",
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "depth": 0,
+            "text": "Accompagnement dans la mise en pratique de méthodologie Agile"
+          },
+          {
+            "entityRanges": [],
+            "data": {},
+            "depth": 0,
+            "key": "1r0aj",
+            "type": "unordered-list-item",
+            "inlineStyleRanges": [],
+            "text": "Mise en place de la CI/CD"
+          }
+        ]
+      },
+      "startDate": 1585692000,
+      "technologies": {
+        "blocks": [
+          {
+            "key": "6i9tg",
+            "entityRanges": [],
+            "depth": 0,
+            "text": "C#, .Net core, Azure, EF, T-SQL, Azure Devops, Visual Studio",
+            "inlineStyleRanges": [],
+            "data": {},
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": {}
+      },
+      "teamSize": "5",
+      "missionSummary": "Réalisation d’un portail permettant de gérer la monté en compétences et la transition des employé vers de nouveaux postes",
+      "company": "Pwc ",
+      "endDate": 1614553200,
+      "jobPosition": "Développeur"
+    },
+    {
+      "teamProfiles": {
+        "blocks": [
+          {
+            "inlineStyleRanges": [],
+            "data": {},
+            "key": "6enc4",
+            "text": "",
+            "entityRanges": [],
+            "depth": 0,
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": {}
+      },
+      "toolsAndMethodolgies": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "data": {},
+            "entityRanges": [],
+            "key": "ad8c2",
+            "depth": 0,
+            "text": "",
+            "type": "unstyled",
+            "inlineStyleRanges": []
+          }
+        ]
+      },
+      "startDate": 1575154800,
+      "jobPosition": "Développeur ",
+      "teamSize": "1",
+      "missionSummary": "Création d’un logiciel pour la gestion de contrat (primes, sinistres, etc.) dans le cadre d’un programme d’assurance d’appareil multimédia et téléphonie",
+      "achievements": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "data": {},
+            "type": "unordered-list-item",
+            "key": "3uucg",
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "text": "Développements de l’application",
+            "depth": 0
+          },
+          {
+            "data": {},
+            "inlineStyleRanges": [],
+            "text": "Mise en place du pattern MVVM",
+            "key": "8uevv",
+            "depth": 0,
+            "type": "unordered-list-item",
+            "entityRanges": []
+          },
+          {
+            "inlineStyleRanges": [],
+            "text": "Création du design",
+            "data": {},
+            "type": "unordered-list-item",
+            "depth": 0,
+            "entityRanges": [],
+            "key": "f86oa"
+          },
+          {
+            "text": "Accompagnement dans la mise en pratique de méthodologie Agile",
+            "type": "unordered-list-item",
+            "depth": 0,
+            "entityRanges": [],
+            "data": {},
+            "key": "eu3fv",
+            "inlineStyleRanges": []
+          }
+        ]
+      },
+      "endDate": 1583017200,
+      "technologies": {
+        "blocks": [
+          {
+            "key": "2gp36",
+            "data": {},
+            "inlineStyleRanges": [],
+            "text": "C#, WPF, EF, T-SQL, TFS, Visual Studio",
+            "type": "unstyled",
+            "depth": 0,
+            "entityRanges": []
+          }
+        ],
+        "entityMap": {}
+      },
+      "company": "CAMCA"
+    },
+    {
+      "technologies": {
+        "blocks": [
+          {
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "depth": 0,
+            "data": {},
+            "key": "4kn7",
+            "text": "C#, ASP.Net, Postman, EF, T-SQL, TFS, Visual Studio",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": {}
+      },
+      "missionSummary": "Afin d’être en conformité avec la directive sur les paiements et services bancaires (PSD2), Eurobank a développé une solution implémentant la norme « Berlin Group » ",
+      "toolsAndMethodolgies": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "type": "unstyled",
+            "entityRanges": [],
+            "key": "7p7i0",
+            "depth": 0,
+            "text": "",
+            "data": {},
+            "inlineStyleRanges": []
+          }
+        ]
+      },
+      "jobPosition": "Développeur ",
+      "endDate": 1575154800,
+      "teamProfiles": {
+        "blocks": [
+          {
+            "data": {},
+            "key": "c6fac",
+            "inlineStyleRanges": [],
+            "type": "unstyled",
+            "text": "1 Front-end, 1 backend junior et 1 senior",
+            "entityRanges": [],
+            "depth": 0
+          }
+        ],
+        "entityMap": {}
+      },
+      "teamSize": "3",
+      "company": "EUROBANK",
+      "achievements": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "key": "15lfb",
+            "type": "unordered-list-item",
+            "inlineStyleRanges": [],
+            "depth": 0,
+            "text": "Développements de web service",
+            "data": {},
+            "entityRanges": []
+          },
+          {
+            "entityRanges": [],
+            "depth": 0,
+            "text": "Mise en place de Test Plan via PostMan",
+            "type": "unordered-list-item",
+            "data": {},
+            "inlineStyleRanges": [],
+            "key": "bi58m"
+          },
+          {
+            "inlineStyleRanges": [],
+            "depth": 0,
+            "key": "aueka",
+            "entityRanges": [],
+            "data": {},
+            "type": "unordered-list-item",
+            "text": "Automatisation des tests via PostMan"
+          }
+        ]
+      },
+      "startDate": 1559340000
+    },
+    {
+      "teamSize": "4",
+      "achievements": {
+        "blocks": [
+          {
+            "entityRanges": [],
+            "key": "b3nc3",
+            "depth": 0,
+            "data": {},
+            "inlineStyleRanges": [],
+            "text": "Encadrements d’une équipe de 2 juniors sur les bases de SCRUM :",
+            "type": "unordered-list-item"
+          },
+          {
+            "inlineStyleRanges": [],
+            "data": {},
+            "entityRanges": [],
+            "depth": 0,
+            "text": "Mise en place du backlog",
+            "key": "3ihrq",
+            "type": "unordered-list-item"
+          },
+          {
+            "entityRanges": [],
+            "text": "Mise en place des cérémonies",
+            "data": {},
+            "depth": 0,
+            "inlineStyleRanges": [],
+            "key": "21gkp",
+            "type": "unordered-list-item"
+          },
+          {
+            "entityRanges": [],
+            "depth": 0,
+            "inlineStyleRanges": [],
+            "text": "Rôle de Scrum Master",
+            "type": "unordered-list-item",
+            "key": "6nb13",
+            "data": {}
+          },
+          {
+            "data": {},
+            "key": "er2en",
+            "inlineStyleRanges": [],
+            "text": "Proof  of of concept sur l'intégration continue avec TFS",
+            "depth": 0,
+            "entityRanges": [],
+            "type": "unordered-list-item"
+          },
+          {
+            "entityRanges": [],
+            "depth": 0,
+            "data": {},
+            "type": "unordered-list-item",
+            "key": "mr",
+            "text": "Réalisation d’un wiki",
+            "inlineStyleRanges": []
+          },
+          {
+            "key": "b8574",
+            "data": {},
+            "type": "unordered-list-item",
+            "inlineStyleRanges": [],
+            "text": "Interface avec LUIS (robot Azure)",
+            "entityRanges": [],
+            "depth": 0
+          },
+          {
+            "key": "9ppd",
+            "inlineStyleRanges": [],
+            "text": "Réalisation de la gestion des dialogues",
+            "data": {},
+            "entityRanges": [],
+            "depth": 0,
+            "type": "unordered-list-item"
+          },
+          {
+            "inlineStyleRanges": [],
+            "data": {},
+            "entityRanges": [],
+            "text": "Mise en place de best practices",
+            "key": "93fk8",
+            "type": "unordered-list-item",
+            "depth": 0
+          },
+          {
+            "inlineStyleRanges": [],
+            "depth": 0,
+            "type": "unordered-list-item",
+            "key": "314s5",
+            "entityRanges": [],
+            "data": {},
+            "text": "Création de package pour le release management"
+          }
+        ],
+        "entityMap": {}
+      },
+      "technologies": {
+        "blocks": [
+          {
+            "entityRanges": [],
+            "data": {},
+            "depth": 0,
+            "text": "C#, ASP.Net, TypeScript, SignalR, Azure, T-Sql, TFS, Visual Studio",
+            "inlineStyleRanges": [],
+            "key": "4im8l",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": {}
+      },
+      "endDate": 1543618800,
+      "startDate": 1530396000,
+      "toolsAndMethodolgies": {
+        "blocks": [
+          {
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "text": "",
+            "key": "dclc3",
+            "type": "unstyled",
+            "data": {},
+            "depth": 0
+          }
+        ],
+        "entityMap": {}
+      },
+      "jobPosition": "Lead Technique ",
+      "company": "SWITCH-IT",
+      "teamProfiles": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "data": {},
+            "depth": 0,
+            "key": "co00o",
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "type": "unstyled",
+            "text": "2 Juniors, 1 Lead et 1 PO"
+          }
+        ]
+      },
+      "missionSummary": "Transfert de connaissances sur les paradigmes de programmations actuels et transition vers des méthodes AGILES dans le cadre de la création d’un Chabot. "
+    },
+    {
+      "achievements": {
+        "blocks": [
+          {
+            "depth": 0,
+            "inlineStyleRanges": [],
+            "type": "unordered-list-item",
+            "key": "2dqsm",
+            "text": "Création d’un environnement de test automatisés pour les processus métiers",
+            "data": {},
+            "entityRanges": []
+          },
+          {
+            "key": "ee49k",
+            "data": {},
+            "inlineStyleRanges": [],
+            "text": "Amélioration des releases notes (meilleurs suivis des évolutions)",
+            "depth": 0,
+            "type": "unordered-list-item",
+            "entityRanges": []
+          },
+          {
+            "key": "9c34v",
+            "inlineStyleRanges": [],
+            "depth": 0,
+            "text": "Automatisation de tâches manuelles journalières et lourdes",
+            "data": {},
+            "entityRanges": [],
+            "type": "unordered-list-item"
+          },
+          {
+            "depth": 0,
+            "inlineStyleRanges": [],
+            "text": "Evolution de package SSIS et de report SSRS",
+            "type": "unordered-list-item",
+            "entityRanges": [],
+            "key": "34bl6",
+            "data": {}
+          }
+        ],
+        "entityMap": {}
+      },
+      "endDate": 1527804000,
+      "teamSize": "1",
+      "missionSummary": "Mise en place de tests d’intégrations et de release management. Interfaçage entre les applications Tierces et internes. ",
+      "jobPosition": "DevOps",
+      "technologies": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "entityRanges": [],
+            "data": {},
+            "depth": 0,
+            "type": "unstyled",
+            "text": "C#, ASP.Net, SSIS/SSRS, LinqPad, T-SQL, TFS, Visual Studio",
+            "inlineStyleRanges": [],
+            "key": "a4k5u"
+          }
+        ]
+      },
+      "startDate": 1509490800,
+      "teamProfiles": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "entityRanges": [],
+            "depth": 0,
+            "text": "",
+            "type": "unstyled",
+            "key": "6b1ic",
+            "data": {},
+            "inlineStyleRanges": []
+          }
+        ]
+      },
+      "company": "AXA Luxembourg",
+      "toolsAndMethodolgies": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "depth": 0,
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "type": "unstyled",
+            "key": "fsdql",
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "teamSize": "1",
+      "startDate": 1504216800,
+      "endDate": 1509490800,
+      "jobPosition": "DevOps",
+      "toolsAndMethodolgies": {
+        "blocks": [
+          {
+            "key": "3hcqf",
+            "text": "",
+            "entityRanges": [],
+            "data": {},
+            "depth": 0,
+            "type": "unstyled",
+            "inlineStyleRanges": []
+          }
+        ],
+        "entityMap": {}
+      },
+      "achievements": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "inlineStyleRanges": [],
+            "key": "21g01",
+            "data": {},
+            "entityRanges": [],
+            "depth": 0,
+            "text": "Retro Engineering afin de migrer le projet de l’environnement luxembourgeois sur l’environnement Cloud du group",
+            "type": "unordered-list-item"
+          },
+          {
+            "entityRanges": [],
+            "type": "unordered-list-item",
+            "key": "7058l",
+            "depth": 0,
+            "data": {},
+            "text": "Bug Fixing",
+            "inlineStyleRanges": []
+          },
+          {
+            "text": "Mise en place de méthodes Agile",
+            "type": "unordered-list-item",
+            "depth": 0,
+            "key": "gpgf",
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "data": {}
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "text": "Réalisation d’un white book pour l’intégration continue",
+            "depth": 0,
+            "key": "5qu8a",
+            "type": "unordered-list-item"
+          }
+        ]
+      },
+      "company": "SWORD",
+      "teamProfiles": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "key": "7agd",
+            "data": {},
+            "type": "unstyled",
+            "depth": 0,
+            "text": "",
+            "entityRanges": [],
+            "inlineStyleRanges": []
+          }
+        ]
+      },
+      "missionSummary": "Afin de gérer les différents profils des consultants et de répondre aux différents appels d’offres, Sword à conçu un application web. Celle-ci permet aux consultants de gérer leur profil et aux commerciaux de générer des CV avec différents templates.",
+      "technologies": {
+        "blocks": [
+          {
+            "data": {},
+            "depth": 0,
+            "entityRanges": [],
+            "text": "C#, ASP.Net, EF, t-SQL, TFS, Visual Studio, Azure",
+            "inlineStyleRanges": [],
+            "type": "unstyled",
+            "key": "uiee"
+          }
+        ],
+        "entityMap": {}
+      }
+    },
+    {
+      "toolsAndMethodolgies": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "text": "",
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "type": "unstyled",
+            "key": "70rf6",
+            "data": {},
+            "depth": 0
+          }
+        ]
+      },
+      "teamProfiles": {
+        "blocks": [
+          {
+            "entityRanges": [],
+            "data": {},
+            "key": "706a",
+            "inlineStyleRanges": [],
+            "text": "",
+            "type": "unstyled",
+            "depth": 0
+          }
+        ],
+        "entityMap": {}
+      },
+      "achievements": {
+        "blocks": [
+          {
+            "depth": 0,
+            "data": {},
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "type": "unordered-list-item",
+            "text": "Ajout des l'authentification via azure AD pour des clients externes",
+            "key": "abbhq"
+          },
+          {
+            "data": {},
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "text": "Bug fixing",
+            "type": "unordered-list-item",
+            "key": "61qgd",
+            "depth": 0
+          }
+        ],
+        "entityMap": {}
+      },
+      "missionSummary": "Regulatory Inventory",
+      "endDate": 1504216800,
+      "company": "KPMG ",
+      "jobPosition": "Développeur ",
+      "teamSize": "1",
+      "technologies": {
+        "blocks": [
+          {
+            "type": "unstyled",
+            "depth": 0,
+            "data": {},
+            "entityRanges": [],
+            "key": "bn46s",
+            "inlineStyleRanges": [],
+            "text": "C#, ASP.Net, TFS, Visual Studio, Azure"
+          }
+        ],
+        "entityMap": {}
+      },
+      "startDate": 1498860000
+    },
+    {
+      "missionSummary": "Migration de l’application de gestion des contrats d’assurance vie de VB6 vers Silverlight dans une équipe SCRUM",
+      "company": "VITIS ",
+      "technologies": {
+        "blocks": [
+          {
+            "depth": 0,
+            "inlineStyleRanges": [],
+            "text": "C#, SilverLight, ADO.Net, T-SQL, TFS, Visual Studio",
+            "key": "2etpq",
+            "type": "unstyled",
+            "entityRanges": [],
+            "data": {}
+          }
+        ],
+        "entityMap": {}
+      },
+      "startDate": 1483225200,
+      "jobPosition": "Développeur ",
+      "endDate": 1496268000,
+      "teamProfiles": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "type": "unstyled",
+            "depth": 0,
+            "data": {},
+            "entityRanges": [],
+            "text": "1 junior, 2 medior, 1 senior , 1 lead",
+            "key": "9febv",
+            "inlineStyleRanges": []
+          }
+        ]
+      },
+      "toolsAndMethodolgies": {
+        "blocks": [
+          {
+            "entityRanges": [],
+            "key": "etb84",
+            "inlineStyleRanges": [],
+            "text": "",
+            "type": "unstyled",
+            "depth": 0,
+            "data": {}
+          }
+        ],
+        "entityMap": {}
+      },
+      "achievements": {
+        "blocks": [
+          {
+            "data": {},
+            "text": "Analyse et développement",
+            "key": "fs3ep",
+            "inlineStyleRanges": [],
+            "depth": 0,
+            "entityRanges": [],
+            "type": "unordered-list-item"
+          },
+          {
+            "key": "2oa29",
+            "data": {},
+            "depth": 0,
+            "inlineStyleRanges": [],
+            "text": "Automatisation du déploiement",
+            "entityRanges": [],
+            "type": "unordered-list-item"
+          },
+          {
+            "depth": 0,
+            "inlineStyleRanges": [],
+            "type": "unordered-list-item",
+            "entityRanges": [],
+            "text": "Mise en place de CQRS/DDD",
+            "key": "8t6ss",
+            "data": {}
+          }
+        ],
+        "entityMap": {}
+      },
+      "teamSize": "5"
+    },
+    {
+      "teamSize": "1",
+      "endDate": 1480546800,
+      "achievements": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "type": "unstyled",
+            "key": "2mn9o",
+            "depth": 0,
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "data": {},
+            "text": "Bug fixing"
+          }
+        ]
+      },
+      "startDate": 1477954800,
+      "jobPosition": "Développeur ",
+      "company": "KPMG ",
+      "technologies": {
+        "blocks": [
+          {
+            "type": "unstyled",
+            "text": "C#, ASP.Net, TFS, Visual Studio, Azure",
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "data": {},
+            "depth": 0,
+            "key": "hkgs"
+          }
+        ],
+        "entityMap": {}
+      },
+      "teamProfiles": {
+        "blocks": [
+          {
+            "inlineStyleRanges": [],
+            "depth": 0,
+            "data": {},
+            "entityRanges": [],
+            "type": "unstyled",
+            "key": "c9mgc",
+            "text": ""
+          }
+        ],
+        "entityMap": {}
+      },
+      "missionSummary": "Renfort de l’équipe sur différents projets afin de clôturer l’année",
+      "toolsAndMethodolgies": {
+        "blocks": [
+          {
+            "key": "4vjor",
+            "data": {},
+            "inlineStyleRanges": [],
+            "depth": 0,
+            "entityRanges": [],
+            "type": "unstyled",
+            "text": ""
+          }
+        ],
+        "entityMap": {}
+      }
+    },
+    {
+      "missionSummary": "Dans le cadre de la mise en place d’une software factory, Fanuc souhaitait mettre en place TFS comme solution. ",
+      "teamProfiles": {
+        "blocks": [
+          {
+            "inlineStyleRanges": [],
+            "text": "",
+            "data": {},
+            "key": "d0t7t",
+            "entityRanges": [],
+            "depth": 0,
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": {}
+      },
+      "technologies": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "data": {},
+            "inlineStyleRanges": [],
+            "text": "TFS",
+            "depth": 0,
+            "key": "2le0e",
+            "entityRanges": [],
+            "type": "unstyled"
+          }
+        ]
+      },
+      "endDate": 1462053600,
+      "company": "Fanuc ",
+      "toolsAndMethodolgies": {
+        "blocks": [
+          {
+            "entityRanges": [],
+            "text": "",
+            "inlineStyleRanges": [],
+            "key": "6vh1i",
+            "type": "unstyled",
+            "data": {},
+            "depth": 0
+          }
+        ],
+        "entityMap": {}
+      },
+      "jobPosition": "Consultant",
+      "teamSize": "1",
+      "startDate": 1462053600,
+      "achievements": {
+        "blocks": [
+          {
+            "key": "4nvhj",
+            "data": {},
+            "depth": 0,
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "text": "Installation, configuration de TFS,",
+            "type": "unordered-list-item"
+          },
+          {
+            "key": "6of1m",
+            "type": "unordered-list-item",
+            "inlineStyleRanges": [],
+            "text": "Importation des projets de SVN vers TFS,",
+            "depth": 0,
+            "data": {},
+            "entityRanges": []
+          },
+          {
+            "data": {},
+            "depth": 0,
+            "entityRanges": [],
+            "key": "3c78m",
+            "inlineStyleRanges": [],
+            "text": "Formation utilisateur",
+            "type": "unordered-list-item"
+          }
+        ],
+        "entityMap": {}
+      }
+    },
+    {
+      "teamProfiles": {
+        "blocks": [
+          {
+            "key": "7j9eq",
+            "entityRanges": [],
+            "type": "unstyled",
+            "text": "",
+            "data": {},
+            "depth": 0,
+            "inlineStyleRanges": []
+          }
+        ],
+        "entityMap": {}
+      },
+      "jobPosition": "Développeur ",
+      "missionSummary": "Développement d’une solution de gestion de contrats IARD",
+      "startDate": 1459461600,
+      "teamSize": "4",
+      "endDate": 1477954800,
+      "toolsAndMethodolgies": {
+        "blocks": [
+          {
+            "key": "dan5v",
+            "inlineStyleRanges": [],
+            "type": "unstyled",
+            "data": {},
+            "entityRanges": [],
+            "depth": 0,
+            "text": ""
+          }
+        ],
+        "entityMap": {}
+      },
+      "technologies": {
+        "blocks": [
+          {
+            "entityRanges": [],
+            "key": "bif0s",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [],
+            "text": "C#, Winform, T-SQL, SSRS, Visual Studio",
+            "data": {}
+          }
+        ],
+        "entityMap": {}
+      },
+      "company": "Baloise ",
+      "achievements": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "entityRanges": [],
+            "key": "6s5ar",
+            "text": "Analyse et développement",
+            "depth": 0,
+            "data": {},
+            "type": "unstyled",
+            "inlineStyleRanges": []
+          }
+        ]
+      }
+    },
+    {
+      "startDate": 1441058400,
+      "achievements": {
+        "blocks": [
+          {
+            "key": "8b92p",
+            "type": "unordered-list-item",
+            "inlineStyleRanges": [],
+            "depth": 0,
+            "entityRanges": [],
+            "text": "Analyse et développement",
+            "data": {}
+          }
+        ],
+        "entityMap": {}
+      },
+      "company": "SNCA ",
+      "endDate": 1459461600,
+      "missionSummary": "Développement de webservices passerelles entre les services Luxembourgeois et Européen pour communiquer sur les infractions routières ",
+      "toolsAndMethodolgies": {
+        "blocks": [
+          {
+            "depth": 0,
+            "type": "unstyled",
+            "entityRanges": [],
+            "data": {},
+            "key": "egr84",
+            "text": "",
+            "inlineStyleRanges": []
+          }
+        ],
+        "entityMap": {}
+      },
+      "technologies": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "depth": 0,
+            "inlineStyleRanges": [],
+            "data": {},
+            "type": "unstyled",
+            "text": "C#, TFS, T-SQL, ASP.Net, Visual Studio",
+            "key": "2iqt9",
+            "entityRanges": []
+          }
+        ]
+      },
+      "teamSize": "1",
+      "teamProfiles": {
+        "blocks": [
+          {
+            "inlineStyleRanges": [],
+            "depth": 0,
+            "type": "unstyled",
+            "data": {},
+            "entityRanges": [],
+            "key": "d7okt",
+            "text": ""
+          }
+        ],
+        "entityMap": {}
+      },
+      "jobPosition": "Développeur "
+    },
+    {
+      "achievements": {
+        "blocks": [
+          {
+            "entityRanges": [],
+            "type": "unstyled",
+            "key": "8m1k",
+            "data": {},
+            "inlineStyleRanges": [],
+            "text": "Analyse et développement",
+            "depth": 0
+          }
+        ],
+        "entityMap": {}
+      },
+      "company": "Commissariat Maritime du Luxembourg",
+      "toolsAndMethodolgies": {
+        "blocks": [
+          {
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "key": "amqg",
+            "data": {},
+            "depth": 0,
+            "text": "",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": {}
+      },
+      "teamSize": "1",
+      "jobPosition": "Développeur ",
+      "technologies": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "inlineStyleRanges": [],
+            "data": {},
+            "text": "C#, SilverLight, T-SQL, TFS, Visual Studio",
+            "key": "5b879",
+            "depth": 0,
+            "type": "unstyled",
+            "entityRanges": []
+          }
+        ]
+      },
+      "endDate": 1459461600,
+      "startDate": 1441058400,
+      "missionSummary": "Maintenance d’une solution de gestion des permis de navigation fluviale et maritime.",
+      "teamProfiles": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "data": {},
+            "key": "a12pe",
+            "type": "unstyled",
+            "text": "",
+            "depth": 0
+          }
+        ]
+      }
+    },
+    {
+      "teamProfiles": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "inlineStyleRanges": [],
+            "text": "",
+            "entityRanges": [],
+            "type": "unstyled",
+            "data": {},
+            "key": "7mr27",
+            "depth": 0
+          }
+        ]
+      },
+      "technologies": {
+        "blocks": [
+          {
+            "entityRanges": [],
+            "key": "9tfoe",
+            "inlineStyleRanges": [],
+            "depth": 0,
+            "data": {},
+            "type": "unstyled",
+            "text": "C#, T-SQL, SSRS, Visual Studio"
+          }
+        ],
+        "entityMap": {}
+      },
+      "toolsAndMethodolgies": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "key": "2s68j",
+            "text": "",
+            "depth": 0,
+            "type": "unstyled",
+            "data": {}
+          }
+        ]
+      },
+      "endDate": 1462053600,
+      "startDate": 1441058400,
+      "jobPosition": "Développeur / Testeur ",
+      "company": "Schroders ",
+      "achievements": {
+        "blocks": [
+          {
+            "key": "fp9qe",
+            "depth": 0,
+            "text": "Analyse est développement",
+            "entityRanges": [],
+            "data": {},
+            "type": "unordered-list-item",
+            "inlineStyleRanges": []
+          },
+          {
+            "text": "Création des test cases et des test plans",
+            "inlineStyleRanges": [],
+            "type": "unordered-list-item",
+            "key": "22u6l",
+            "depth": 0,
+            "entityRanges": [],
+            "data": {}
+          },
+          {
+            "text": "Automatisations des Builds et des tests",
+            "depth": 0,
+            "data": {},
+            "key": "e6vbf",
+            "entityRanges": [],
+            "type": "unordered-list-item",
+            "inlineStyleRanges": []
+          },
+          {
+            "key": "7l887",
+            "inlineStyleRanges": [],
+            "depth": 0,
+            "type": "unordered-list-item",
+            "entityRanges": [],
+            "data": {},
+            "text": "Préparation du jeux de données"
+          }
+        ],
+        "entityMap": {}
+      },
+      "teamSize": "2",
+      "missionSummary": "Développement d’une solution de tests automatisés afin de s’assurer de la non-régression des workflow métier "
+    },
+    {
+      "toolsAndMethodolgies": {
+        "blocks": [
+          {
+            "depth": 0,
+            "inlineStyleRanges": [],
+            "key": "53hn5",
+            "text": "",
+            "type": "unstyled",
+            "entityRanges": [],
+            "data": {}
+          }
+        ],
+        "entityMap": {}
+      },
+      "missionSummary": "",
+      "teamSize": "1",
+      "technologies": {
+        "blocks": [
+          {
+            "data": {},
+            "key": "2hn14",
+            "inlineStyleRanges": [],
+            "depth": 0,
+            "entityRanges": [],
+            "text": "C#, PowerShell, TFS, Visual Studio",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": {}
+      },
+      "achievements": {
+        "blocks": [
+          {
+            "depth": 0,
+            "inlineStyleRanges": [],
+            "type": "unstyled",
+            "key": "fbf7a",
+            "entityRanges": [],
+            "text": "Scripting PowerShell pour faciliter :",
+            "data": {}
+          },
+          {
+            "key": "dmsoh",
+            "type": "unordered-list-item",
+            "entityRanges": [],
+            "depth": 0,
+            "data": {},
+            "inlineStyleRanges": [],
+            "text": "le déploiement des solutions,"
+          },
+          {
+            "text": "la génération de reports TFS",
+            "entityRanges": [],
+            "data": {},
+            "type": "unordered-list-item",
+            "key": "c7ug1",
+            "inlineStyleRanges": [],
+            "depth": 0
+          }
+        ],
+        "entityMap": {}
+      },
+      "startDate": 1435701600,
+      "company": "Cour Européenne de Justice",
+      "teamProfiles": {
+        "blocks": [
+          {
+            "text": "",
+            "inlineStyleRanges": [],
+            "data": {},
+            "entityRanges": [],
+            "key": "ngih",
+            "depth": 0,
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": {}
+      },
+      "endDate": 1438380000,
+      "jobPosition": "DevOps"
+    },
+    {
+      "toolsAndMethodolgies": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "entityRanges": [],
+            "text": "",
+            "type": "unstyled",
+            "data": {},
+            "inlineStyleRanges": [],
+            "key": "9ic0o",
+            "depth": 0
+          }
+        ]
+      },
+      "company": "AllianZ BeNeLux",
+      "technologies": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "entityRanges": [],
+            "key": "aklpq",
+            "data": {},
+            "inlineStyleRanges": [],
+            "type": "unstyled",
+            "depth": 0,
+            "text": "C#, ASP.Net, VSTO, Winform, SSRS, SSIS, T-SQL, …,"
+          }
+        ]
+      },
+      "missionSummary": "Remplacement de l'équipe transverse pour assurer l'opérationnel existant pendant leur projet de migration vers un environnement java",
+      "teamSize": "2",
+      "startDate": 1396303200,
+      "jobPosition": "DevOps ",
+      "achievements": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "inlineStyleRanges": [],
+            "key": "as2u6",
+            "data": {},
+            "entityRanges": [],
+            "text": "Développement d’outils (reports, services Windows, interfaces web, …) pour assurer un meilleur monitoring des applications business",
+            "type": "unordered-list-item",
+            "depth": 0
+          },
+          {
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "depth": 0,
+            "key": "94u8h",
+            "text": "Développement d’addin Outlook dans le cadre de migration XP vers Win7",
+            "data": {},
+            "type": "unordered-list-item"
+          },
+          {
+            "entityRanges": [],
+            "type": "unordered-list-item",
+            "key": "d62sb",
+            "depth": 0,
+            "text": "Participation aux phases d’architecture, revues de codes et support aux développeurs",
+            "inlineStyleRanges": [],
+            "data": {}
+          },
+          {
+            "inlineStyleRanges": [],
+            "data": {},
+            "entityRanges": [],
+            "key": "7o5em",
+            "type": "unordered-list-item",
+            "text": "Mise en place de processus orienté agile afin de faciliter la communication interservices",
+            "depth": 0
+          },
+          {
+            "key": "5ntov",
+            "inlineStyleRanges": [],
+            "text": "Migration / Mise à jour de SQL Server, des serveurs web et diverses applications",
+            "depth": 0,
+            "entityRanges": [],
+            "data": {},
+            "type": "unordered-list-item"
+          },
+          {
+            "text": "Mise en place d’un wiki",
+            "data": {},
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "key": "d7lst",
+            "type": "unordered-list-item",
+            "depth": 0
+          },
+          {
+            "key": "9qg5e",
+            "data": {},
+            "type": "unordered-list-item",
+            "depth": 0,
+            "inlineStyleRanges": [],
+            "text": "Amélioration de l’entente interservices (MOA-IT-Infra)",
+            "entityRanges": []
+          }
+        ]
+      },
+      "teamProfiles": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "entityRanges": [],
+            "data": {},
+            "key": "cgn0l",
+            "inlineStyleRanges": [],
+            "text": "1 junior et 1 senior",
+            "type": "unstyled",
+            "depth": 0
+          }
+        ]
+      },
+      "endDate": 1433109600
+    },
+    {
+      "jobPosition": "Développeur ",
+      "toolsAndMethodolgies": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "depth": 0,
+            "type": "unstyled",
+            "data": {},
+            "key": "2e23o",
+            "text": ""
+          }
+        ]
+      },
+      "company": "Ministères d’état du Grand-Duché de Luxembourg",
+      "teamProfiles": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "depth": 0,
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "key": "826ac",
+            "type": "unstyled",
+            "data": {},
+            "text": ""
+          }
+        ]
+      },
+      "startDate": 1377986400,
+      "technologies": {
+        "blocks": [
+          {
+            "key": "eit7f",
+            "data": {},
+            "entityRanges": [],
+            "text": "C#, ASP.NET MVC4, JQuery, EF 5 Code First, TFS, VS 2012",
+            "type": "unstyled",
+            "inlineStyleRanges": [],
+            "depth": 0
+          }
+        ],
+        "entityMap": {}
+      },
+      "missionSummary": "Développement d’une application web pour gérer les procédures de demandes interservices internes et externes",
+      "teamSize": "1",
+      "achievements": {
+        "blocks": [
+          {
+            "text": "Analyse est développement",
+            "key": "3toan",
+            "type": "unordered-list-item",
+            "data": {},
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "depth": 0
+          }
+        ],
+        "entityMap": {}
+      },
+      "endDate": 1391209200
+    },
+    {
+      "teamProfiles": {
+        "blocks": [
+          {
+            "key": "a8860",
+            "text": "",
+            "entityRanges": [],
+            "depth": 0,
+            "type": "unstyled",
+            "inlineStyleRanges": [],
+            "data": {}
+          }
+        ],
+        "entityMap": {}
+      },
+      "achievements": {
+        "blocks": [
+          {
+            "depth": 0,
+            "key": "15t0l",
+            "type": "unordered-list-item",
+            "entityRanges": [],
+            "data": {},
+            "inlineStyleRanges": [],
+            "text": "Installation et configuration de SP2013 pour les environnements de développement"
+          },
+          {
+            "text": "Mise à jour de custom webparts",
+            "inlineStyleRanges": [],
+            "data": {},
+            "depth": 0,
+            "entityRanges": [],
+            "key": "cnhp1",
+            "type": "unordered-list-item"
+          },
+          {
+            "key": "iqsb",
+            "inlineStyleRanges": [],
+            "depth": 0,
+            "type": "unordered-list-item",
+            "entityRanges": [],
+            "data": {},
+            "text": "Création d’un nouveau template"
+          }
+        ],
+        "entityMap": {}
+      },
+      "startDate": 1364767200,
+      "toolsAndMethodolgies": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "key": "7r49j",
+            "type": "unstyled",
+            "depth": 0,
+            "data": {},
+            "text": "",
+            "entityRanges": [],
+            "inlineStyleRanges": []
+          }
+        ]
+      },
+      "technologies": {
+        "blocks": [
+          {
+            "key": "chbgr",
+            "text": "SharePoint 2013, VS 2012, Sql Server 2008",
+            "entityRanges": [],
+            "depth": 0,
+            "data": {},
+            "inlineStyleRanges": [],
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": {}
+      },
+      "missionSummary": "Migration d’un portail SharePoint vers SharePoint 2013",
+      "jobPosition": "Développeur ",
+      "teamSize": "1",
+      "company": "Delaware Consulting",
+      "endDate": 1370037600
+    },
+    {
+      "technologies": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "text": "C#, Asp.Net MVC, WCF, EF, HTML 5, JQuery, KendoUI, VS, T-SQL",
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "22su3",
+            "data": {},
+            "type": "unstyled",
+            "depth": 0
+          }
+        ]
+      },
+      "teamProfiles": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "text": "",
+            "depth": 0,
+            "key": "b575k",
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "type": "unstyled"
+          }
+        ]
+      },
+      "teamSize": "2",
+      "endDate": 1362092400,
+      "startDate": 1356994800,
+      "achievements": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "inlineStyleRanges": [],
+            "key": "604go",
+            "data": {},
+            "entityRanges": [],
+            "text": "Réalisation de templates de documents qualités et des standards de développement",
+            "depth": 0,
+            "type": "unordered-list-item"
+          },
+          {
+            "key": "4ckpv",
+            "type": "unordered-list-item",
+            "data": {},
+            "entityRanges": [],
+            "depth": 0,
+            "text": "Organisation et préparation de workshop pour former l’équipe",
+            "inlineStyleRanges": []
+          },
+          {
+            "entityRanges": [],
+            "depth": 0,
+            "inlineStyleRanges": [],
+            "data": {},
+            "key": "4si06",
+            "text": "Développement d’un site pour montrer les nouvelles fonctionnalités d’HTML5, JQuery et KendoUI",
+            "type": "unordered-list-item"
+          },
+          {
+            "entityRanges": [],
+            "data": {},
+            "inlineStyleRanges": [],
+            "text": "Développement d’un site pour implémenter le cas d’étude d’une agence de voyage",
+            "key": "31aq8",
+            "type": "unordered-list-item",
+            "depth": 0
+          }
+        ]
+      },
+      "missionSummary": "Amélioration du processus de développement afin d'assurer un niveau 2 CMMI ainsi qu’un POC sur l'intégration de l'application ASP.Net MVC avec un back-end WCF afin d'évaluer les technologies Web avec une SOA",
+      "jobPosition": "Architecte",
+      "company": "Delaware Consulting",
+      "toolsAndMethodolgies": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "depth": 0,
+            "inlineStyleRanges": [],
+            "key": "3nkeo",
+            "type": "unstyled",
+            "entityRanges": [],
+            "text": "",
+            "data": {}
+          }
+        ]
+      }
+    },
+    {
+      "startDate": 1338501600,
+      "toolsAndMethodolgies": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "key": "ajbgp",
+            "entityRanges": [],
+            "type": "unstyled",
+            "depth": 0,
+            "text": "",
+            "data": {},
+            "inlineStyleRanges": []
+          }
+        ]
+      },
+      "achievements": {
+        "blocks": [
+          {
+            "data": {},
+            "depth": 0,
+            "key": "4gmk7",
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "type": "unordered-list-item",
+            "text": "Conception de parties de l’architecture"
+          },
+          {
+            "type": "unordered-list-item",
+            "depth": 0,
+            "data": {},
+            "entityRanges": [],
+            "key": "fahh0",
+            "inlineStyleRanges": [],
+            "text": "Implémentation, tests, correction de bugs"
+          },
+          {
+            "data": {},
+            "inlineStyleRanges": [],
+            "depth": 0,
+            "entityRanges": [],
+            "key": "7to78",
+            "text": "Utilisation des Best Practices en ALM avec TFS",
+            "type": "unordered-list-item"
+          },
+          {
+            "entityRanges": [],
+            "type": "unordered-list-item",
+            "key": "5i3v9",
+            "inlineStyleRanges": [],
+            "depth": 0,
+            "text": "Mise en place de Scrum",
+            "data": {}
+          }
+        ],
+        "entityMap": {}
+      },
+      "missionSummary": "FinShop\nRéalisation d’une application de gestion des biens saisis pour le centre de Bruxelles. Elle permet de gérer le workflow de la vente des biens et les transactions financières associées.\n",
+      "company": "Ministère des Finances Belges",
+      "jobPosition": "Développeur ",
+      "teamSize": "3",
+      "technologies": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "text": "C#, Silverlight, EF, TFS, VS 2010, MVVM, WCF RIA Services,",
+            "type": "unstyled",
+            "data": {},
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "key": "fo65k",
+            "depth": 0
+          }
+        ]
+      },
+      "endDate": 1354316400,
+      "teamProfiles": {
+        "blocks": [
+          {
+            "inlineStyleRanges": [],
+            "text": "",
+            "depth": 0,
+            "key": "2rf3o",
+            "type": "unstyled",
+            "data": {},
+            "entityRanges": []
+          }
+        ],
+        "entityMap": {}
+      }
+    },
+    {
+      "endDate": 1335823200,
+      "missionSummary": "Ce projet est divisé en plusieurs phases :\n-Maintenance corrective et évolutive des applications sur site\n-Refactoring des applications afin de diminuer la dette technique\n- Outsourcing en mode SLA\n",
+      "technologies": {
+        "blocks": [
+          {
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fca9",
+            "depth": 0,
+            "data": {},
+            "text": "C#, WinForm, WebForm, NHibernate, Oracle, SQL-Server",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": {}
+      },
+      "toolsAndMethodolgies": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "data": {},
+            "text": "",
+            "depth": 0,
+            "key": "a6qqh",
+            "inlineStyleRanges": [],
+            "type": "unstyled",
+            "entityRanges": []
+          }
+        ]
+      },
+      "achievements": {
+        "blocks": [
+          {
+            "inlineStyleRanges": [],
+            "key": "udhb",
+            "depth": 0,
+            "entityRanges": [],
+            "data": {},
+            "text": "Analyse de nouveaux besoins",
+            "type": "unordered-list-item"
+          },
+          {
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1r2a3",
+            "text": "Refactoring, revue de code",
+            "type": "unordered-list-item",
+            "data": {},
+            "depth": 0
+          },
+          {
+            "depth": 0,
+            "entityRanges": [],
+            "data": {},
+            "text": "Modification de la couche de persistance et migration des bases de données (Oracle vers SQLServer).",
+            "type": "unordered-list-item",
+            "inlineStyleRanges": [],
+            "key": "blr8k"
+          }
+        ],
+        "entityMap": {}
+      },
+      "startDate": 1317420000,
+      "company": "RTL Group",
+      "teamProfiles": {
+        "blocks": [
+          {
+            "data": {},
+            "text": "",
+            "entityRanges": [],
+            "key": "baj0f",
+            "depth": 0,
+            "type": "unstyled",
+            "inlineStyleRanges": []
+          }
+        ],
+        "entityMap": {}
+      },
+      "teamSize": "1",
+      "jobPosition": "Développeur "
+    },
+    {
+      "teamProfiles": {
+        "blocks": [
+          {
+            "key": "d97d7",
+            "data": {},
+            "depth": 0,
+            "type": "unstyled",
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "text": ""
+          }
+        ],
+        "entityMap": {}
+      },
+      "achievements": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "key": "6ls1f",
+            "entityRanges": [],
+            "data": {},
+            "depth": 0,
+            "text": "Conception de parties de l’architecture",
+            "inlineStyleRanges": [],
+            "type": "unordered-list-item"
+          },
+          {
+            "key": "67lr0",
+            "entityRanges": [],
+            "data": {},
+            "depth": 0,
+            "type": "unordered-list-item",
+            "text": "Implémentation, tests, correction de bugs",
+            "inlineStyleRanges": []
+          },
+          {
+            "data": {},
+            "inlineStyleRanges": [],
+            "text": "Utilisation des Best Practices en ALM avec TFS",
+            "key": "3bu2a",
+            "type": "unordered-list-item",
+            "depth": 0,
+            "entityRanges": []
+          },
+          {
+            "type": "unordered-list-item",
+            "data": {},
+            "depth": 0,
+            "key": "1d2be",
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "text": "Mise en place de Scrum"
+          }
+        ]
+      },
+      "startDate": 1312149600,
+      "technologies": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "depth": 0,
+            "data": {},
+            "entityRanges": [],
+            "text": "C#, Silverlight, EF, TFS, VS 2010, MVVM, WCF RIA Services",
+            "key": "5snpp",
+            "type": "unstyled",
+            "inlineStyleRanges": []
+          }
+        ]
+      },
+      "endDate": 1317420000,
+      "jobPosition": "Développeur ",
+      "toolsAndMethodolgies": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "key": "emm0b",
+            "type": "unstyled",
+            "entityRanges": [],
+            "text": "",
+            "inlineStyleRanges": [],
+            "data": {},
+            "depth": 0
+          }
+        ]
+      },
+      "missionSummary": "Développement d’une application pour la gestion du cycle de vente des biens immobiliers. Elle permet aussi de gérer les transactions liées aux ventes et autres actions",
+      "company": "Ministère des Finances Belges",
+      "teamSize": "3"
+    },
+    {
+      "teamProfiles": {
+        "blocks": [
+          {
+            "data": {},
+            "text": "",
+            "type": "unstyled",
+            "depth": 0,
+            "entityRanges": [],
+            "key": "ciiru",
+            "inlineStyleRanges": []
+          }
+        ],
+        "entityMap": {}
+      },
+      "technologies": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "inlineStyleRanges": [],
+            "key": "6e3i1",
+            "text": "C#, WPF, T-SQL, Visual Studio",
+            "depth": 0,
+            "type": "unstyled",
+            "entityRanges": [],
+            "data": {}
+          }
+        ]
+      },
+      "teamSize": "1",
+      "jobPosition": "Développeur ",
+      "endDate": 1309471200,
+      "achievements": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "data": {},
+            "type": "unordered-list-item",
+            "text": "Analyse est développement",
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "depth": 0,
+            "key": "1ju6o"
+          },
+          {
+            "key": "c86ps",
+            "inlineStyleRanges": [],
+            "data": {},
+            "type": "unordered-list-item",
+            "entityRanges": [],
+            "text": "Démonstration",
+            "depth": 0
+          }
+        ]
+      },
+      "company": "Legrand",
+      "missionSummary": "Pour leur solution des bâtiments intelligents, nous avons conçu une application affichant la consommation électrique and permettant le contrôle des certains devices (clim, stores, etc)",
+      "toolsAndMethodolgies": {
+        "blocks": [
+          {
+            "depth": 0,
+            "text": "",
+            "type": "unstyled",
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cvt82"
+          }
+        ],
+        "entityMap": {}
+      },
+      "startDate": 1306879200
+    },
+    {
+      "teamSize": "4",
+      "achievements": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "data": {},
+            "text": "Assistance au team leader pour la gestion technique du projet (estimations, agilité, POO, …)",
+            "key": "71guk",
+            "inlineStyleRanges": [],
+            "depth": 0,
+            "type": "unordered-list-item",
+            "entityRanges": []
+          },
+          {
+            "inlineStyleRanges": [],
+            "text": "Implémentation, tests, correction de bugs",
+            "data": {},
+            "type": "unordered-list-item",
+            "entityRanges": [],
+            "depth": 0,
+            "key": "7tddk"
+          }
+        ]
+      },
+      "company": "Dekra",
+      "startDate": 1283292000,
+      "teamProfiles": {
+        "blocks": [
+          {
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "depth": 0,
+            "data": {},
+            "key": "c7mds",
+            "type": "unstyled",
+            "text": ""
+          }
+        ],
+        "entityMap": {}
+      },
+      "jobPosition": "Développeur ",
+      "technologies": {
+        "blocks": [
+          {
+            "type": "unstyled",
+            "entityRanges": [],
+            "depth": 0,
+            "key": "55tmb",
+            "data": {},
+            "text": "VB.Net, ASP.Net, ADO.Net, TFS, VS 2008",
+            "inlineStyleRanges": []
+          }
+        ],
+        "entityMap": {}
+      },
+      "endDate": 1304200800,
+      "toolsAndMethodolgies": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "inlineStyleRanges": [],
+            "type": "unstyled",
+            "text": "",
+            "depth": 0,
+            "entityRanges": [],
+            "key": "rfg7",
+            "data": {}
+          }
+        ]
+      },
+      "missionSummary": "Mission de consultance et d’aide technique dans le cadre du développement d’une application pour la création et le suivi des propositions commerciales"
+    },
+    {
+      "endDate": 1280613600,
+      "technologies": {
+        "blocks": [
+          {
+            "depth": 0,
+            "key": "71car",
+            "data": {},
+            "type": "unstyled",
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "text": "PHP, Eclipse, Symfony, API FaceBook"
+          }
+        ],
+        "entityMap": {}
+      },
+      "teamProfiles": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "inlineStyleRanges": [],
+            "type": "unstyled",
+            "depth": 0,
+            "text": "",
+            "key": "b2fk9",
+            "entityRanges": [],
+            "data": {}
+          }
+        ]
+      },
+      "startDate": 1277935200,
+      "teamSize": "1",
+      "achievements": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "depth": 0,
+            "entityRanges": [],
+            "type": "unordered-list-item",
+            "inlineStyleRanges": [],
+            "key": "rhg0",
+            "text": "Architecture de l’application",
+            "data": {}
+          },
+          {
+            "inlineStyleRanges": [],
+            "key": "d0mls",
+            "data": {},
+            "entityRanges": [],
+            "type": "unordered-list-item",
+            "text": "Analyse technique et fonctionnelle",
+            "depth": 0
+          },
+          {
+            "key": "je9u",
+            "data": {},
+            "text": "Estimation, planning, etc",
+            "depth": 0,
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "type": "unordered-list-item"
+          },
+          {
+            "type": "unordered-list-item",
+            "entityRanges": [],
+            "text": "Réalisation d’un POC pour l’utilisation de l’API Facebook",
+            "key": "37g87",
+            "data": {},
+            "inlineStyleRanges": [],
+            "depth": 0
+          }
+        ]
+      },
+      "toolsAndMethodolgies": {
+        "blocks": [
+          {
+            "text": "",
+            "depth": 0,
+            "data": {},
+            "entityRanges": [],
+            "type": "unstyled",
+            "inlineStyleRanges": [],
+            "key": "d44ch"
+          }
+        ],
+        "entityMap": {}
+      },
+      "missionSummary": "Développement d’un « jeu Facebook » permettant de lancer des défis à ses amis, poster une preuve de réalisation de défis et consulter le classement.\n",
+      "company": "Chtepatoudi ",
+      "jobPosition": "Développeur "
+    },
+    {
+      "company": "ProximIT",
+      "technologies": {
+        "blocks": [
+          {
+            "key": "6kl09",
+            "type": "unstyled",
+            "text": "",
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "data": {},
+            "depth": 0
+          }
+        ],
+        "entityMap": {}
+      },
+      "teamProfiles": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "text": "",
+            "entityRanges": [],
+            "data": {},
+            "depth": 0,
+            "key": "9159e",
+            "type": "unstyled",
+            "inlineStyleRanges": []
+          }
+        ]
+      },
+      "endDate": 1275343200,
+      "missionSummary": "Création d’atelier sur les méthodologies Agiles\n",
+      "achievements": {
+        "blocks": [
+          {
+            "inlineStyleRanges": [],
+            "text": "Formation et préparation pour un atelier sur la méthodologie AGILE/SCRUM",
+            "entityRanges": [],
+            "key": "7dp94",
+            "depth": 0,
+            "data": {},
+            "type": "unordered-list-item"
+          },
+          {
+            "text": "Réalisation d’outils pédagogiques et de Template de documents.",
+            "depth": 0,
+            "type": "unordered-list-item",
+            "data": {},
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "key": "9nutj"
+          }
+        ],
+        "entityMap": {}
+      },
+      "startDate": 1272664800,
+      "toolsAndMethodolgies": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "entityRanges": [],
+            "data": {},
+            "key": "7gchv",
+            "depth": 0,
+            "type": "unstyled",
+            "text": "",
+            "inlineStyleRanges": []
+          }
+        ]
+      },
+      "teamSize": 0,
+      "jobPosition": "Formateur "
+    },
+    {
+      "jobPosition": "Lead Technique",
+      "technologies": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "text": "C#, Winform, LinqToSql,T-SQL, TFS, Visual Studio",
+            "entityRanges": [],
+            "depth": 0,
+            "inlineStyleRanges": [],
+            "data": {},
+            "type": "unstyled",
+            "key": "aaatv"
+          }
+        ]
+      },
+      "achievements": {
+        "blocks": [
+          {
+            "key": "2iv86",
+            "text": "Architecture de l’application, rédaction du cahier des charges techniques",
+            "depth": 0,
+            "entityRanges": [],
+            "data": {},
+            "inlineStyleRanges": [],
+            "type": "unordered-list-item"
+          },
+          {
+            "entityRanges": [],
+            "data": {},
+            "text": "Estimation de temps, planning prévisionnel",
+            "inlineStyleRanges": [],
+            "type": "unordered-list-item",
+            "key": "769ct",
+            "depth": 0
+          },
+          {
+            "text": "Lead technique d’une équipe de 3 personnes",
+            "data": {},
+            "key": "artb7",
+            "type": "unordered-list-item",
+            "depth": 0,
+            "inlineStyleRanges": [],
+            "entityRanges": []
+          },
+          {
+            "key": "14or9",
+            "data": {},
+            "entityRanges": [],
+            "text": "Implémentation, tests, correction de bugs",
+            "depth": 0,
+            "inlineStyleRanges": [],
+            "type": "unordered-list-item"
+          }
+        ],
+        "entityMap": {}
+      },
+      "company": "Lagardére",
+      "endDate": 1272664800,
+      "teamSize": "3",
+      "missionSummary": "Développement d’une application pour gérer les mandats de ventes de programmes audiovisuels, les ventes et le reporting",
+      "startDate": 1262300400,
+      "teamProfiles": {
+        "blocks": [
+          {
+            "key": "coc9o",
+            "depth": 0,
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "text": "1 stagiaire, 1 junior 1 lead",
+            "data": {},
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": {}
+      },
+      "toolsAndMethodolgies": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "inlineStyleRanges": [],
+            "data": {},
+            "depth": 0,
+            "entityRanges": [],
+            "text": "",
+            "key": "dn6jp",
+            "type": "unstyled"
+          }
+        ]
+      }
+    },
+    {
+      "company": "ProximIT",
+      "startDate": 1254348000,
+      "technologies": {
+        "blocks": [
+          {
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "type": "unstyled",
+            "key": "21aom",
+            "depth": 0,
+            "data": {},
+            "text": "C#, ASP.Net, T-SQL, Oracle, Visual Studio"
+          }
+        ],
+        "entityMap": {}
+      },
+      "endDate": 1259622000,
+      "missionSummary": "Mutualisation et partage de l’information à l’échelle d’un territoire",
+      "teamProfiles": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "key": "9fknd",
+            "type": "unstyled",
+            "data": {},
+            "inlineStyleRanges": [],
+            "depth": 0,
+            "entityRanges": [],
+            "text": ""
+          }
+        ]
+      },
+      "achievements": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "inlineStyleRanges": [],
+            "type": "unordered-list-item",
+            "depth": 0,
+            "entityRanges": [],
+            "key": "78a6b",
+            "text": "Migration de modules ASP vers ASP.NET",
+            "data": {}
+          },
+          {
+            "key": "eholc",
+            "depth": 0,
+            "data": {},
+            "type": "unordered-list-item",
+            "text": "Création et modification de XSL-T",
+            "entityRanges": [],
+            "inlineStyleRanges": []
+          }
+        ]
+      },
+      "toolsAndMethodolgies": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "text": "",
+            "key": "4qrkc",
+            "data": {},
+            "entityRanges": [],
+            "depth": 0,
+            "type": "unstyled",
+            "inlineStyleRanges": []
+          }
+        ]
+      },
+      "teamSize": "1",
+      "jobPosition": "Développeur "
+    },
+    {
+      "toolsAndMethodolgies": {
+        "blocks": [
+          {
+            "depth": 0,
+            "key": "77fl6",
+            "inlineStyleRanges": [],
+            "data": {},
+            "entityRanges": [],
+            "text": "",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": {}
+      },
+      "jobPosition": "Lead Technique",
+      "teamProfiles": {
+        "blocks": [
+          {
+            "type": "unstyled",
+            "data": {},
+            "text": "",
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "od6t",
+            "depth": 0
+          }
+        ],
+        "entityMap": {}
+      },
+      "endDate": 1254348000,
+      "startDate": 1235862000,
+      "technologies": {
+        "blocks": [
+          {
+            "key": "7ji6h",
+            "depth": 0,
+            "text": "C#, Winform, LinqToSql,T-SQL, TFS, Visual Studio",
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": {}
+      },
+      "missionSummary": "Développement d’une application pour gérer les mandats de ventes de programmes audio-visuels, les ventes et le reporting",
+      "teamSize": "1",
+      "company": "Lagardére",
+      "achievements": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "data": {},
+            "key": "4rh38",
+            "inlineStyleRanges": [],
+            "text": "Architecture de l’application, rédaction du cahier des charges techniques",
+            "type": "unordered-list-item",
+            "entityRanges": [],
+            "depth": 0
+          },
+          {
+            "depth": 0,
+            "data": {},
+            "type": "unordered-list-item",
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "key": "15m23",
+            "text": "Estimation de temps, planning prévisionnel"
+          },
+          {
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "depth": 0,
+            "text": "Lead technique d’une équipe de 3 personnes",
+            "data": {},
+            "type": "unordered-list-item",
+            "key": "cp9lp"
+          },
+          {
+            "text": "Implémentation, tests, correction de bugs",
+            "inlineStyleRanges": [],
+            "key": "4tu3t",
+            "entityRanges": [],
+            "type": "unordered-list-item",
+            "data": {},
+            "depth": 0
+          }
+        ]
+      }
+    },
+    {
+      "company": "HomellyDayz",
+      "missionSummary": "Afin d’alimenter les annonces de Villanao.fr  (site d’annonces de location pour les vacances), VillanaoPro permet aux agences de saisir des offres de location.",
+      "jobPosition": "Développeur ",
+      "technologies": {
+        "blocks": [
+          {
+            "type": "unstyled",
+            "key": "a6omn",
+            "text": "C#, ASP.Net, ADO.Net, SQL-Server, VS 2008, API GMap",
+            "depth": 0,
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": []
+          }
+        ],
+        "entityMap": {}
+      },
+      "toolsAndMethodolgies": {
+        "blocks": [
+          {
+            "data": {},
+            "key": "bl23u",
+            "depth": 0,
+            "inlineStyleRanges": [],
+            "text": "",
+            "entityRanges": [],
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": {}
+      },
+      "endDate": 1212271200,
+      "startDate": 1209592800,
+      "teamProfiles": {
+        "blocks": [
+          {
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "depth": 0,
+            "text": "",
+            "type": "unstyled",
+            "data": {},
+            "key": "buq1r"
+          }
+        ],
+        "entityMap": {}
+      },
+      "achievements": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "key": "fmgv0",
+            "data": {},
+            "entityRanges": [],
+            "type": "unordered-list-item",
+            "depth": 0,
+            "inlineStyleRanges": [],
+            "text": "Création d'un module pour la géolocalisation avec GMaps"
+          },
+          {
+            "inlineStyleRanges": [],
+            "text": "Amélioration du back-office",
+            "type": "unordered-list-item",
+            "depth": 0,
+            "data": {},
+            "key": "5oqk4",
+            "entityRanges": []
+          },
+          {
+            "type": "unordered-list-item",
+            "depth": 0,
+            "inlineStyleRanges": [],
+            "key": "1k31n",
+            "text": "Conception et développement d’un générateur de flux XML provenant de la BdD",
+            "entityRanges": [],
+            "data": {}
+          }
+        ]
+      },
+      "teamSize": "4"
+    },
+    {
+      "startDate": 1207000800,
+      "teamProfiles": {
+        "blocks": [
+          {
+            "text": "",
+            "type": "unstyled",
+            "entityRanges": [],
+            "data": {},
+            "inlineStyleRanges": [],
+            "depth": 0,
+            "key": "5tlh5"
+          }
+        ],
+        "entityMap": {}
+      },
+      "achievements": {
+        "blocks": [
+          {
+            "depth": 0,
+            "entityRanges": [],
+            "type": "unordered-list-item",
+            "data": {},
+            "text": "Création des exercices du cours",
+            "key": "dbnja",
+            "inlineStyleRanges": []
+          },
+          {
+            "entityRanges": [],
+            "key": "3j3en",
+            "depth": 0,
+            "type": "unordered-list-item",
+            "inlineStyleRanges": [],
+            "text": "Rédaction du cours en binôme avec le professeur",
+            "data": {}
+          }
+        ],
+        "entityMap": {}
+      },
+      "jobPosition": "Développeur ",
+      "endDate": 1207000800,
+      "technologies": {
+        "blocks": [
+          {
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "key": "1tmp8",
+            "type": "unstyled",
+            "text": "XML, XSD, XSL-T, DTD",
+            "depth": 0,
+            "data": {}
+          }
+        ],
+        "entityMap": {}
+      },
+      "company": "ISEP ",
+      "teamSize": "2",
+      "toolsAndMethodolgies": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "key": "3g4n9",
+            "depth": 0,
+            "data": {},
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "text": "",
+            "type": "unstyled"
+          }
+        ]
+      },
+      "missionSummary": "Réalisation d’un cours portant sur XML pour les élèves de l'ISEP"
+    },
+    {
+      "toolsAndMethodolgies": {
+        "entityMap": {},
+        "blocks": [
+          {
+            "inlineStyleRanges": [],
+            "text": "",
+            "entityRanges": [],
+            "key": "dn5l8",
+            "data": {},
+            "type": "unstyled",
+            "depth": 0
+          }
+        ]
+      },
+      "teamProfiles": {
+        "blocks": [
+          {
+            "data": {},
+            "inlineStyleRanges": [],
+            "text": "",
+            "key": "4bod4",
+            "type": "unstyled",
+            "depth": 0,
+            "entityRanges": []
+          }
+        ],
+        "entityMap": {}
+      },
+      "achievements": {
+        "blocks": [
+          {
+            "data": {},
+            "text": "Conception et développement d’un forum",
+            "type": "unordered-list-item",
+            "depth": 0,
+            "inlineStyleRanges": [],
+            "key": "d6u2q",
+            "entityRanges": []
+          },
+          {
+            "key": "4kbe9",
+            "text": "Développement de plusieurs outils (Import de données, Communication entre services du portail, …)",
+            "entityRanges": [],
+            "type": "unordered-list-item",
+            "inlineStyleRanges": [],
+            "data": {},
+            "depth": 0
+          },
+          {
+            "text": "Amélioration du CMS (implémentation d’un nouveau type de ressource)",
+            "inlineStyleRanges": [],
+            "type": "unordered-list-item",
+            "depth": 0,
+            "data": {},
+            "entityRanges": [],
+            "key": "1jsal"
+          },
+          {
+            "depth": 0,
+            "data": {},
+            "text": "Création du backoffice pour la gestion de ressources",
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "type": "unordered-list-item",
+            "key": "ei4vm"
+          },
+          {
+            "entityRanges": [],
+            "data": {},
+            "depth": 0,
+            "key": "c1hh",
+            "type": "unordered-list-item",
+            "text": "Création du site corporate à partir du CMS",
+            "inlineStyleRanges": []
+          },
+          {
+            "inlineStyleRanges": [],
+            "text": "Création d’utilitaires pour améliorer le référencement (génération des metatags, du sitemap.xml en fonction des données)",
+            "key": "fjlrj",
+            "type": "unordered-list-item",
+            "depth": 0,
+            "data": {},
+            "entityRanges": []
+          },
+          {
+            "key": "d6526",
+            "type": "unordered-list-item",
+            "text": "Interfaçage d’un forum PHP avec un site ASP.Net",
+            "depth": 0,
+            "inlineStyleRanges": [],
+            "data": {},
+            "entityRanges": []
+          }
+        ],
+        "entityMap": {}
+      },
+      "startDate": 1183240800,
+      "technologies": {
+        "blocks": [
+          {
+            "data": {},
+            "text": "C#, ASP.Net, ADO.Net, SVN, VS 2005-2008",
+            "entityRanges": [],
+            "key": "fv1rl",
+            "depth": 0,
+            "type": "unstyled",
+            "inlineStyleRanges": []
+          }
+        ],
+        "entityMap": {}
+      },
+      "endDate": 1204326000,
+      "missionSummary": "Creation d'un portail basé sur un moteur CMS maison",
+      "teamSize": "4",
+      "company": "DE Invest",
+      "jobPosition": "Développeur "
+    }
+  ],
+  "title": "CV original",
+  "type": "original"
+}
