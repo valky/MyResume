@@ -7,7 +7,5 @@ import { ResumeStore } from 'src/core/singletons/dataStore';
   styleUrls: ['./resume-header.component.scss'],
 })
 export class ResumeHeaderComponent {
-  constructor(public store: ResumeStore) {
-    console.log(store);
-  }
+  constructor(public store: ResumeStore) {}
 }

@@ -1,1 +1,22 @@
-<div class="resumeColumn"><p>resume-column works!</p></div>
+<div class="resumeColumn">
+  <div class="personnalInfos">
+    <div>
+      {{ this.store.resume.personnalInfos.firstName }}
+    </div>
+    <div>
+      {{ this.store.resume.personnalInfos.lastName | uppercase }}
+    </div>
+    <div>
+      {{ this.store.resume.personnalInfos.email }}
+    </div>
+    <div>
+      {{ this.store.resume.personnalInfos.phoneNumber }}
+    </div>
+    <div>
+      {{ this.store.resume.personnalInfos.github }}
+    </div>
+    <div>
+      {{ this.store.resume.personnalInfos.linkedin }}
+    </div>
+  </div>
+</div>

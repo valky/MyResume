@@ -1,0 +1,33 @@
+{
+  "langages": [
+    "DotNet",
+    "DotNet Core",
+    "C#",
+    "WPF",
+    "Winform",
+    "Silverlight",
+    "ASP.Net",
+    "MVC",
+    "Razor",
+    "WebForm",
+    "Typescript",
+    "Angular",
+    "CSS",
+    "Powershell",
+    "T-SQL",
+    "EF core"
+  ],
+  "tools": [
+    "Visual Studio",
+    "Azure",
+    "SQL Server",
+    "MongoDB",
+    "MySQL",
+    "Azure DevOps",
+    "GitHub",
+    "Jira",
+    "Docker",
+    "Windows",
+    "Linux"
+  ]
+}

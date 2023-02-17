@@ -5,7 +5,9 @@
     "lastName": "BREUIL",
     "email": "nicolas.breuil@gmail.com",
     "phoneNumber": "+33651894497",
-    "bithDate": "14/08/1986"
+    "bithDate": "14/08/1986",
+    "github": "https://github.com/valky",
+    "linkedin": "https://www.linkedin.com/in/nicolasbreuil/"
   },
   "diplomas": [
     {
@@ -58,7 +60,7 @@
     { "name": "Webforms", "level": 4 }
   ],
   "methods": [
-    { "name": "Scrul", "level": 5 },
+    { "name": "Scrum", "level": 5 },
     { "name": "Webforms", "level": 4 }
   ],
   "softSkills": [

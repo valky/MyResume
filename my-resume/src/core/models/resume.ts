@@ -1,3 +1,11 @@
+import { Company } from './company';
+import { Diploma } from './diploma';
+import { Skill } from './skill';
+import { PersonnalInfos } from './personnalInfos';
+import { WorkedFor } from './workedFor';
+import { Training } from './training';
+import { Mission } from './mission';
+
 export interface Resume {
   title: string;
   personnalInfos: PersonnalInfos;
@@ -10,38 +18,4 @@ export interface Resume {
   methods: Skill[];
   softSkills: Skill[];
   tools: Skill[];
-}
-export interface PersonnalInfos {
-  firstName: string;
-  lastName: string;
-  email: string;
-  phoneNumber: string;
-  bithDate: string;
-}
-export interface Diploma {
-  name: string;
-  date: string;
-}
-export interface Training {
-  name: string;
-  date: string;
-  description: string;
-}
-export interface Company {
-  name: string;
-  date: string;
-  isESN: boolean;
-}
-export interface Mission {
-  name: string;
-  description: string;
-  role: string;
-}
-export interface WorkedFor {
-  path: string;
-  name: string;
-}
-export interface Skill {
-  name: string;
-  level: number;
 }
